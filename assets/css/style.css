@@ -1,0 +1,45 @@
+body {
+    margin: 0;
+    padding: 0;
+    background-color: #191830;
+    color: #757486;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.foodCard {
+    width: 200px;
+    height: 300px;
+    display: flex;
+    flex-direction: column;
+}
+
+.foodCard img {
+    width: 100%;
+    border-radius: 3px;
+}
+
+.description {
+    display: flex;
+    justify-content: space-between;
+}
+
+.text {
+    width: 100px;
+    font-weight: bold;
+    color: white;
+}
+
+.price {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: chocolate;
+}
+
+button {
+    color: chocolate;
+    border-radius: 0;
+    width: 70px;
+    background-color: #191830;
+    border: 1px chocolate solid;
+    padding: 5px;
+    border-radius: 5px;
+}
