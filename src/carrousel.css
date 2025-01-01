@@ -1,14 +1,3 @@
-body {
-    margin: 0;
-    background-color: #191830;
-    color: #757486;
-    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
-}
-
-.container {
-    margin: 50px 200px;
-}
-
 .food {
     display: flex;
     /* grid-template-columns: repeat(4, 1fr);
