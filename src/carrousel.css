@@ -46,7 +46,7 @@ button {
     color: chocolate;
     border-radius: 0;
     width: 70px;
-    background-color: #191830;
+    background-color: #242424;
     border: 1px chocolate solid;
     padding: 5px;
     border-radius: 5px;
@@ -54,6 +54,6 @@ button {
 
 button:hover {
     background-color: chocolate;
-    border: 1px #191830 solid;
-    color: #191830;
+    border: 1px #242424 solid;
+    color: #242424
 }
